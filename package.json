@@ -26,6 +26,8 @@
     "karma-junit-reporter": "^1.2.0",
     "karma-mocha-reporter": "^2.2.5",
     "karma-nyan-reporter": "^0.2.5",
-    "promise-mock": "^1.1.1"
+    "karma-webpack": "^2.0.5",
+    "promise-mock": "^1.1.1",
+    "webpack": "^3.8.1"
   }
 }
